@@ -1,1 +1,1 @@
-# trying to make mirror bot with the help gemini advance.
+leech and mirror ur videos/images.
