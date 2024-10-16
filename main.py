@@ -12,7 +12,7 @@ import threading
 import uuid  # To generate unique gid
 
 # Telegram bot token and owner ID
-TOKEN = '6863982081:AAEQTE4Nv8aMsFn1AMtIJrlwCX9HWIPNPIs'  # Replace with your actual bot token
+TOKEN = '6863982081:AAEQTE4Nv8aMsFn1AMtIJrlwCX9Hdgdjdhh'  # Replace with your actual bot token
 OWNER_ID = 5264219629  # Replace with your actual Telegram user ID
 bot = telebot.TeleBot(TOKEN)
 
